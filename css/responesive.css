@@ -1,0 +1,688 @@
+@media (min-width: 0px) and (max-width: 575.98px) {
+/* =======================header part start========================= */
+.heading {
+	padding-bottom: 5px;
+}
+.header_text p {
+	justify-content: center;
+	margin-bottom: 15px;
+}
+.header_colam {
+	width: 100%;
+}
+.btn{
+	font-size: 14px;
+}
+.log_in_box {
+	width: 100%;
+}
+.log_in_btn{
+	width: 100%;
+}
+.log_in_box .form_control {
+	width: 100% !important;
+	margin-bottom: 10px;
+}
+.button {
+	display: flex;
+	gap: 10px;
+	justify-content: start;
+	margin-bottom: 8px;
+}
+.forgate{
+	margin-top: -15px;
+}
+.forgate a{
+	margin-top: 0px;
+}
+/* =========================header part end======================= */
+/* ==========================banner part start===================== */
+.banner_img img {
+	width: 100% ;
+	height: 180px;
+}
+.prev {
+	font-size: 25px;
+	top: 45%;
+	right: 87%;
+}
+.next {
+	font-size: 25px;
+	top: 45%;
+	left: 87%;
+}
+.banner_heading h2 {
+	margin-top: 10px;
+}
+.banner_row {
+	gap: 15px;
+	justify-content: center;
+}
+.banner_col {
+	padding: 10px 25px;
+}
+.navbar-nav li a {
+	padding-left: 10px;
+}
+.navbar-nav li .nav_hover {
+	width: 100%;
+	padding: 15px 10px;
+	border: 1px solid #00000075;
+}
+.navbar-nav li .nav_hover li a:last-child {
+ border-bottom-width: 1px !important;
+}
+.nav {
+	--bs-nav-link-padding-x: 13px;
+	--bs-nav-link-padding-y: 8px;
+}
+.accordian_row {
+	padding: 0px;
+}
+.channel_link img {
+	width: 100% !important;
+}
+.person_col h2 {
+	text-align: center;
+	margin-top: 20px;
+}
+.person_heading p {
+	margin-bottom: 0px;
+}
+.tv_channel_list a{
+	width: 100% !important;
+}
+.tv_channel_list img{
+	width: 100% !important;
+}
+.tv_channel_list a:first-child{
+    margin-bottom: -10px !important;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.tv_channel_list a:last-child{
+    margin-bottom: 10px !important;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+/* --------------------------banner part end----------------------- */
+/* ==========================payment part start===================== */
+.location_row {
+	gap: 15px;
+}
+.partner_heading{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.partner_heading h2 {
+	margin-top: 20px;
+}
+.payment_row {
+	gap: 15px;
+	flex-direction: column;
+}
+/* --------------------------payment part end----------------------- */
+/* ==========================footer part start===================== */
+.footer_heading {
+	gap: 10px;
+	flex-wrap: wrap;
+	margin-bottom: 15px;
+}
+/* --------------------------footer part end----------------------- */
+/* ==========================copyright part start===================== */
+.copyright_row{
+	justify-content: center;
+}
+.copyright_col{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.copyright_colam{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+}
+.copyright_col a{
+	margin-left: 5px;
+}
+/* --------------------------copyright part end----------------------- */
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+/* =======================header part start========================= */
+.heading {
+	padding-bottom: 5px;
+}
+.header_text p {
+	justify-content: center;
+	margin-bottom: 15px;
+}
+.header_colam {
+	width: 100%;
+}
+.header_button {
+	gap: 5px;
+}
+.btn{
+	--bs-btn-padding-x: 9px;
+	--bs-btn-padding-y: 8px;
+	font-size: 14px;
+}
+.log_in_box {
+	width: 100%;
+}
+.log_in_box .form_control {
+	width: 49%;
+}
+.forgate {
+	margin-top: -2px;
+	width: 100%;
+}
+.forgate a{
+	font-size: 12px;
+	margin-top: 0px;
+}
+/* =========================header part end======================= */
+/* ==========================banner part start===================== */
+.banner_img img {
+	width: 100% ;
+	height: 200px;
+}
+.prev {
+	font-size: 25px;
+	top: 45%;
+	right: 87%;
+}
+.next {
+	font-size: 25px;
+	top: 45%;
+	left: 87%;
+}
+.banner_heading h2 {
+	margin-top: 10px;
+}
+.banner_row {
+	gap: 15px;
+	justify-content: center;
+}
+
+.navbar-nav {
+	margin-top: 15px;
+}
+.navbar-nav li a {
+	padding-left: 10px;
+}
+.navbar-nav li .nav_hover {
+	width: 100%;
+	padding: 15px 10px;
+	border: 1px solid #00000075;
+	padding: 15px 20px;
+	justify-content: start;
+}
+.navbar-nav li .nav_hover li a {
+	width: 230px;
+}
+.navbar-nav li .nav_hover li a:last-child {
+ border-bottom-width: 1px !important;
+}
+.nav {
+	--bs-nav-link-padding-x: 13px;
+	--bs-nav-link-padding-y: 8px;
+}
+.accordian_row {
+	gap: 25px;
+	background: #FAFAFA;
+}
+.accordian_col p {
+	font-size: 16px;
+}
+.accordian_col img {
+	width: 80px !important;
+}
+.channel_link img {
+	width: 100% !important;
+}
+.person_col h2 {
+	text-align: center;
+	margin-top: 20px;
+}
+.person_heading p {
+	margin-bottom: 0px;
+}
+.channel_link {
+	width: 49% !important;
+}
+.tv_channel_list a {
+	width: 49% !important;
+}
+
+.tv_channel_list img {
+	width: 100% !important;
+}
+.tv_channel_list a:first-child{
+    margin-bottom: -10px !important;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.tv_channel_list a:last-child{
+    margin-bottom: 10px !important;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.hotline_number h2 {
+	text-align: center;
+}
+/* --------------------------banner part end----------------------- */
+/* ==========================payment part start===================== */
+.location_row {
+	gap: 15px;
+	justify-content: center;
+}
+.partner_heading{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.partner_heading h2 {
+	margin-top: 20px;
+}
+.payment_row {
+	gap: 15px;
+	margin-top: 25px;
+}
+/* --------------------------payment part end----------------------- */
+/* ==========================footer part start===================== */
+.footer_heading {
+	gap: 10px;
+	flex-wrap: wrap;
+	margin-bottom: 15px;
+}
+/* --------------------------footer part end----------------------- */
+/* ==========================copyright part start===================== */
+.copyright_row {
+	flex-direction: column;
+}
+.copyright_col{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.copyright_col h2 {
+	margin-bottom: 20px;
+}
+.copyright_colam{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+}
+.copyright_col a{
+	margin-left: 5px;
+}
+/* --------------------------copyright part end----------------------- */
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* =======================header part start========================= */
+.heading {
+	padding-bottom: 5px;
+}
+.header_text p {
+	justify-content: center;
+	margin-bottom: 15px;
+}
+.header_colam {
+	width: 102.6%;
+}
+.header_button {
+	gap: 5px;
+}
+.btn{
+	--bs-btn-padding-x: 9px;
+	--bs-btn-padding-y: 8px;
+	font-size: 14px;
+}
+.log_in_box {
+	width: 515px;
+}
+.log_in_box .form_control {
+	width: 49%;
+}
+.forgate {
+	margin-top: -2px;
+	width: 100%;
+}
+.forgate a{
+	font-size: 12px;
+	margin-top: 0px;
+}
+/* =========================header part end======================= */
+/* ==========================banner part start===================== */
+.banner_img img {
+	width: 100% ;
+	height: 200px;
+}
+.prev {
+	font-size: 25px;
+	top: 45%;
+	right: 87%;
+}
+.next {
+	font-size: 25px;
+	top: 45%;
+	left: 87%;
+}
+.banner_heading h2 {
+	margin-top: 10px;
+}
+.banner_row {
+	gap: 15px;
+	justify-content: center;
+}
+
+.navbar-nav {
+	margin-top: 15px;
+}
+.navbar-nav li a {
+	padding-left: 10px;
+}
+.navbar-nav li .nav_hover {
+	width: 100%;
+	padding: 15px 10px;
+	border: 1px solid #00000075;
+	padding: 15px 20px;
+	justify-content: start;
+}
+.navbar-nav li .nav_hover li a {
+	width: 300px;
+}
+.navbar-nav li .nav_hover li a:last-child {
+ border-bottom-width: 1px !important;
+}
+.nav {
+	--bs-nav-link-padding-x: 20px;
+	--bs-nav-link-padding-y: 7px;
+	justify-content: center;
+}
+.accordian_row {
+	gap: 25px;
+	background: #FAFAFA;
+	justify-content: center;
+}
+.accordian_col p {
+	font-size: 16px;
+}
+.accordian_col img {
+	width: 80px !important;
+}
+.channel_link img {
+	width: 100% !important;
+}
+.person_col h2 {
+	text-align: center;
+	margin-top: 20px;
+}
+.person_heading p {
+	margin-bottom: 0px;
+}
+.channel_link {
+	width: 49% !important;
+}
+.tv_channel_list a {
+	width: 49% !important;
+}
+
+.tv_channel_list img {
+	width: 100% !important;
+}
+.tv_channel_list a:first-child{
+    margin-bottom: -10px !important;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.tv_channel_list a:last-child{
+    margin-bottom: 10px !important;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.hotline_number h2 {
+	text-align: center;
+}
+/* --------------------------banner part end----------------------- */
+/* ==========================payment part start===================== */
+.location_row {
+	gap: 15px;
+	justify-content: center;
+}
+.partner_heading{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.partner_heading h2 {
+	margin-top: 20px;
+}
+.payment_row {
+	gap: 15px;
+	margin-top: 25px;
+}
+/* --------------------------payment part end----------------------- */
+/* ==========================footer part start===================== */
+.footer_heading {
+	gap: 10px;
+	flex-wrap: wrap;
+	margin-bottom: 15px;
+}
+/* --------------------------footer part end----------------------- */
+/* ==========================copyright part start===================== */
+.copyright_row {
+	flex-direction: column;
+}
+.copyright_col{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.copyright_col h2 {
+	margin-bottom: 20px;
+}
+.copyright_colam{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+}
+.copyright_col a{
+	margin-left: 5px;
+}
+/* --------------------------copyright part end----------------------- */
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* =======================header part start========================= */
+.heading {
+	padding-bottom: 5px;
+}
+.header_text p {
+	justify-content: center;
+	margin-bottom: 15px;
+}
+.header_colam {
+	width: 102.6%;
+}
+.header_button {
+	gap: 5px;
+}
+.btn{
+	--bs-btn-padding-x: 9px;
+	--bs-btn-padding-y: 8px;
+	font-size: 14px;
+}
+.log_in_box {
+	width: 515px;
+}
+.log_in_box .form_control {
+	width: 49%;
+}
+.forgate {
+	margin-top: -2px;
+	width: 100%;
+}
+.forgate a{
+	font-size: 12px;
+	margin-top: 0px;
+}
+/* =========================header part end======================= */
+/* ==========================banner part start===================== */
+.banner_img img {
+	width: 100% ;
+	height: 300px;
+}
+.prev {
+	font-size: 25px;
+	top: 45%;
+	right: 87%;
+}
+.next {
+	font-size: 25px;
+	top: 45%;
+	left: 87%;
+}
+.banner_heading h2 {
+	margin-top: 10px;
+}
+.banner_row {
+	gap: 15px;
+	justify-content: center;
+}
+
+.navbar-nav {
+	margin-top: 15px;
+}
+.navbar-nav li a {
+	padding-left: 10px;
+}
+.navbar-nav li .nav_hover {
+	width: 500px;
+	padding: 15px 10px;
+	border: 1px solid #00000075;
+	padding: 15px 20px;
+	justify-content: start;
+}
+.navbar-nav li .nav_hover li a {
+	width: 227px;
+}
+.navbar-nav li .nav_hover li a:last-child {
+ border-bottom-width: 1px !important;
+}
+.nav {
+	--bs-nav-link-padding-x: 20px;
+	--bs-nav-link-padding-y: 7px;
+	justify-content: center;
+}
+.accordian_row {
+	gap: 25px;
+	background: #FAFAFA;
+	justify-content: center;
+}
+.accordian_col p {
+	font-size: 16px;
+}
+.accordian_col img {
+	width: 80px !important;
+}
+.channel_link img {
+	width: 100% !important;
+}
+.person_col h2 {
+	text-align: center;
+	margin-top: 20px;
+}
+.person_heading p {
+	margin-bottom: 0px;
+}
+.channel_link {
+	width: 49% !important;
+}
+.tv_channel_list a {
+	width: 49% !important;
+}
+
+.tv_channel_list img {
+	width: 100% !important;
+}
+.tv_channel_list a:first-child{
+    margin-bottom: -10px !important;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.tv_channel_list a:last-child{
+    margin-bottom: 10px !important;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.hotline_number h2 {
+	text-align: center;
+}
+/* --------------------------banner part end----------------------- */
+/* ==========================payment part start===================== */
+.location_row {
+	gap: 15px;
+	justify-content: center;
+}
+.partner_heading{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.partner_heading h2 {
+	margin-top: 20px;
+}
+.payment_row {
+	gap: 15px;
+	margin-top: 25px;
+}
+/* --------------------------payment part end----------------------- */
+/* ==========================footer part start===================== */
+.footer_heading {
+	gap: 10px;
+	flex-wrap: wrap;
+}
+/* --------------------------footer part end----------------------- */
+/* ==========================copyright part start===================== */
+.copyright_col{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.copyright_col h2 {
+	margin-bottom: 20px;
+}
+.copyright_colam{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+}
+.copyright_col a{
+	margin-left: 5px;
+}
+/* --------------------------copyright part end----------------------- */
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.log_in_box .form_control {
+	width: 49%;
+}
+.forgate {
+	margin-top: -2px;
+	width: 100%;
+}
+.header_colam {
+	width: 102.3%;
+}
+
+}
